@@ -114,21 +114,3 @@ This README provides clear instructions and an easy-to-follow workflow. Let me k
 
 
 
-
-##### You said:
-
-also give me description for Githib repo -  i am calling it - faceDetection
-
-
-
-###### ChatGPT said:
-
-Here's a concise and engaging **GitHub repository description** for your **`faceDetection`** repo:
-
-**Short Description (For GitHub Repo Summary):**
-🖼️🎥 A Python project for extracting frames from videos and detecting faces using MTCNN. Automatically processes videos, detects faces, and saves cropped images. 🚀
-
-**Longer Description (For GitHub Repo About Section):**
-`faceDetection` is a Python-based tool for detecting faces in videos. It first extracts frames from video files at a specified interval and then applies MTCNN (Multi-Task Cascaded Convolutional Networks) to detect and crop faces from those frames. This project is useful for preprocessing videos for facial recognition, AI model training, and dataset creation.
-
-Let me know if you'd like to tweak the wording! 🚀
