@@ -1,0 +1,48 @@
+# Ignore all files starting with "allu"
+allu*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environments
+venv/
+env/
+.virtualenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.tmp
+*.cache
+*.egg-info/
+*.mo
+*.pot
+
+# Ignore extracted frames and detected faces
+frames/
+faces/
+faces_old/
+
+# Ignore large video files if dataset is local
+dataset/
+*.mp
+*.webm
